@@ -1,0 +1,1 @@
+export const defaultImageUrl = "https://www.bgr.com/img/gallery/why-consumer-reports-says-the-best-monitor-size-for-your-home-office-isnt-27-inches/l-intro-1776441037.jpg";
